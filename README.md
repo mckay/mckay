@@ -6,6 +6,5 @@ Additionally, my day's are spent building [OnCord](https://github.com/OnCordIO),
 
 ---
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=mckay&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=mckay&theme=dark&hide_border=true" width = 400>
 </p>
